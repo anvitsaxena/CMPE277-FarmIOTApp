@@ -1,2 +1,5 @@
 # CMPE277-FarmIOTApp
-Assignment for my school course CMPE 277 - Smartphone Application Development
+
+Assignment 3: Farm IOT App
+
+An android application that makes use of Broadcast Receiver to create a IOT based Farm application.
